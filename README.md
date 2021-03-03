@@ -22,3 +22,11 @@ Reviewers: [Ron Powell][ron], [Stanley Ndagi][stan]
 [gwp-program]: https://circle.ci/3ahQxfu
 [ron]: https://github.com/ronpowelljr
 [stan]: https://github.com/NdagiStanley
+
+---
+
+## Application
+
+The application is running [here][application].
+
+[application]: https://cci-gwp-go-registration-api.herokuapp.com/
